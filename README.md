@@ -12,6 +12,8 @@ Site do evento: https://hackinbrasil.com.br/meetup-25-03-2026/
 
 ---
 
+![banner.png](img/Captura de tela 2026-03-26 135337.png)
+
 ![alt text](<Captura de tela 2026-03-26 135337.png>)
 
 ![alt text](image-2.png)
