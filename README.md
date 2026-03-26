@@ -14,11 +14,11 @@ Site do evento: https://hackinbrasil.com.br/meetup-25-03-2026/
 
 ![banner.png](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/Captura%20de%20tela%202026-03-26%20135337.png)
 
-![alt text](<Captura de tela 2026-03-26 135337.png>)
+![img-event1](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-1.png)
 
-![alt text](image-2.png)
+![img-event2](image-2.png)
 
-![alt text](image-3.png)
+![img-event3](image-3.png)
 
 ![alt text](image-4.png)
 
