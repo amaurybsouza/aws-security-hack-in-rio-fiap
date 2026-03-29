@@ -29,13 +29,13 @@ Na palestra **“10 Verificações Rápidas para Saber se Sua Conta AWS Está Re
 
 ![img-event2](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-2.png)
 
-![img-event3](image-3.png)
+![img-event3](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-3.png)
 
-![alt text](image-4.png)
+![alt text](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-4.png)
 
-![alt text](image-5.png)
+![alt text](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-5.png)
 
-![alt text](image.png)
+![alt text](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image.png)
 
 ![alt text](image-1.png)
 
