@@ -1,5 +1,5 @@
 # Informações sobre o evento
-No dia 25 de março, o [Hack In Brasil](https://hackinbrasil.com.br/) recebe [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/) para uma palestra sobre segurança em ambientes AWS.
+No dia 25 de março, o [Hack In Brasil](https://hackinbrasil.com.br/) recebe [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/) para uma palestra sobre segurança em ambientes AWS. Número de participantes: 50 pessoas (estimativa)
 
 A programação traz diferentes perspectivas sobre segurança, desde práticas diretas em ambientes cloud até discussões sobre o papel da linguística na evolução dos modelos de linguagem.
 
