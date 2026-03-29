@@ -1,6 +1,16 @@
 # Informações sobre o evento
 No dia 25 de março, o [Hack In Brasil](https://hackinbrasil.com.br/) recebe [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/) para uma palestra sobre segurança em ambientes AWS.
 
+A programação traz diferentes perspectivas sobre segurança, desde práticas diretas em ambientes cloud até discussões sobre o papel da linguística na evolução dos modelos de linguagem.
+
+Entre os destaques:
+
+* *Amaury Borges Souza* compartilha verificações essenciais para avaliar rapidamente a segurança de contas AWS
+* *Mariana Gonçalves* aborda os desafios e possibilidades do PLN na era dos modelos de linguagem
+* *Felipe Pr0teus* apresenta técnicas de decepção defensiva para lidar com atacantes
+
+Além das palestras, o encontro promove networking entre profissionais e entusiastas da área.
+
 Com mais de 12 anos de experiência em segurança da informação, Amaury atua como Senior Cloud Security Engineer, é professor de MBA na FIAP, além de 3× AWS Community Builder e 3× HashiCorp Ambassador.
 
 Na palestra **“10 Verificações Rápidas para Saber se Sua Conta AWS Está Realmente Segura”**, ele apresenta um checklist prático usado nos primeiros minutos ao acessar uma conta AWS — focado em identificar rapidamente o nível real de maturidade de segurança.
