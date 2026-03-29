@@ -1,5 +1,5 @@
-## Informações sobre o evento
-No dia 25 de março, o Hack In Brasil recebe Amaury Borges Souza para uma palestra sobre segurança em ambientes AWS.
+# Informações sobre o evento
+No dia 25 de março, o Hack In Brasil recebe [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/) para uma palestra sobre segurança em ambientes AWS.
 
 Com mais de 12 anos de experiência em segurança da informação, Amaury atua como Senior Cloud Security Engineer, é professor de MBA na FIAP, além de 3× AWS Community Builder e 3× HashiCorp Ambassador.
 
