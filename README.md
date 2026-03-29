@@ -19,6 +19,7 @@ Na palestra **“10 Verificações Rápidas para Saber se Sua Conta AWS Está Re
 - ⏰ 19h às 22h
 - 📍 FIAP – R. Marquês de Olinda, 11, Botafogo – RJ
 - 🔗 Site do evento: https://hackinbrasil.com.br/meetup-25-03-2026/
+- 🎟 Ingressos: https://hackinbrasil.com.br/meetup-25-03-2026/
 
 ---
 
@@ -26,7 +27,7 @@ Na palestra **“10 Verificações Rápidas para Saber se Sua Conta AWS Está Re
 
 ![img-event1](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-1.png)
 
-![img-event2](image-2.png)
+![img-event2](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap/blob/main/img/image-2.png)
 
 ![img-event3](image-3.png)
 
